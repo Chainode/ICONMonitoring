@@ -16,6 +16,7 @@ check=30s
 emails=0
 # Delay before re-sending the alert
 alert=1m
+# Define the number of iterations
 iterations=3
 
 
