@@ -5,11 +5,11 @@
 
 # Edit these parameters:
 # Email address
-emailaddress=monitoring.nodes@gmail.com
+emailaddress=your technical email address
 #Phone number
-phonenumber=+41763583958
+phonenumber=your phone number
 # Textbelt key
-textbeltkey=56fb1b493d99e6f2704c9b2809ffd643ad808d48BoMrjE6XaCBGhynmUanPyZFHf
+textbeltkey=your textbelt key
 # Delay between checks (E.g. 40s = 40 sec, 2m = 2 min, 1h = 1 hour)
 check=30s
 # Preset the email counter
