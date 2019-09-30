@@ -18,6 +18,8 @@ emails=0
 alert=1m
 # Define the number of iterations
 iterations=3
+# Validator IP
+ip=192.168.0.1
 
 
 for (( iteration=1; iteration<=$iterations; iteration++ )); do
